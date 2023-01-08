@@ -119,7 +119,19 @@ body {
     margin: 0px;
     padding: 0px;
 }
-
+.right_side ul a{      
+    color: black;
+    font-weight:bold; 
+    list-style-type: none; 
+    text-decoration: none;
+}
+.right_side ul a:hover{      
+    color: darkorange;
+    font-weight:bold; 
+    list-style-type: none; 
+    text-decoration: none;
+    font-size: 17px;
+}
 .right_side ul li {
     height: 50px;
     background-color: wheat;
